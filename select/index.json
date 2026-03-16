@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Give It All",
+  "base_artist": "Rise Against",
+  "createdAt": "2026-03-16T06:39:36.123099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give It All We Got Tonight",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Give_It_All_We_Got_Tonight_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give It All We Got Tonight (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Give_It_All_We_Got_Tonight_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give It All Up for Love",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/03_Give_It_All_Up_for_Love_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give It All To Me",
+      "artist": "Mavado feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/04_Give_It_All_To_Me_Mavado_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give it All To Me (Feat. Mavado & Nicki Minaj)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/05_Give_it_All_To_Me_(Feat._Mavado_&_Nicki_Minaj)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give It All Up",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/06_Give_It_All_Up_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give It All Away",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/07_Give_It_All_Away_Saxon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give It All",
+      "artist": "Ratt",
+      "has_synced": false,
+      "path": "select/08_Give_It_All_Ratt.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give It All",
+      "artist": "Foals",
+      "has_synced": true,
+      "path": "select/09_Give_It_All_Foals.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give It All Up",
+      "artist": "Amy MacDonald",
+      "has_synced": true,
+      "path": "select/10_Give_It_All_Up_Amy_MacDonald.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Want To Give It All",
+      "artist": "Air Supply",
+      "has_synced": true,
+      "path": "select/11_I_Want_To_Give_It_All_Air_Supply.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give It All",
+      "artist": "Rise Against",
+      "has_synced": true,
+      "path": "select/12_Give_It_All_Rise_Against.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "GIVE IT ALL UP (feat. Tove Lo)",
+      "artist": "Duran Duran feat. Tove Lo",
+      "has_synced": true,
+      "path": "select/13_GIVE_IT_ALL_UP_(feat._Tove_Lo)_Duran_Duran_feat._Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "GIVE IT ALL UP (feat. Tove Lo)",
+      "artist": "Duran Duran, Tove Lo",
+      "has_synced": true,
+      "path": "select/14_GIVE_IT_ALL_UP_(feat._Tove_Lo)_Duran_Duran,_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Give It All to Me",
+      "artist": "Mavado",
+      "has_synced": true,
+      "path": "select/15_Give_It_All_to_Me_Mavado.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Give It All",
+      "artist": "The Amity Affliction",
+      "has_synced": true,
+      "path": "select/16_Give_It_All_The_Amity_Affliction.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Give It All Away",
+      "artist": "World Party",
+      "has_synced": false,
+      "path": "select/17_Give_It_All_Away_World_Party.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give It All",
+      "artist": "Rise Against",
+      "has_synced": false,
+      "path": "select/pl_01_Give_It_All_Rise_Against.txt"
+    }
+  ]
+}
